@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    padding: 50px;
+    background: rgb(64, 19, 226);
+}
+.primary {
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgb(105, 105, 255);
+}
