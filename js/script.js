@@ -11,6 +11,8 @@ const app = new Vue({
     data: {
         myClasses:'header-title primary',
         title:'Viaggiare',
-        image:'https://gametimers.it/wp-content/uploads/2020/08/Doctor_Who_Tardis.jpg'
+        image:'https://i0.wp.com/www.ilsuperuovo.it/wp-content/uploads/2019/12/thumb-1920-44447.jpg?fit=1920%2C1200&ssl=1',
+        alt:'image Doctor who tardis',
+      
     }
 });

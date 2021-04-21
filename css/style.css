@@ -4,11 +4,26 @@
     box-sizing: border-box;
 }
 body {
-    padding: 50px;
-    background: rgb(64, 19, 226);
+    padding: 100px;
+    background-image: linear-gradient(to top right, #ffffff 0%, #030435 50%, #0759a0 100%);
+}
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vh;
+}
+.content {
+    text-align: center;
+}
+.content h1 {
+    margin-bottom: 40px;
+}
+.content img {
+    max-width: 800px;
 }
 .primary {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-align: center;
     color: rgb(105, 105, 255);
 }
