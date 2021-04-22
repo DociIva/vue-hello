@@ -10,9 +10,9 @@ const app = new Vue({
     el: '#app',
     data: {
         myClasses:'header-title primary',
-        title:'Viaggiare',
-        image:'https://i0.wp.com/www.ilsuperuovo.it/wp-content/uploads/2019/12/thumb-1920-44447.jpg?fit=1920%2C1200&ssl=1',
-        alt:'image Doctor who tardis',
+        title:'Viaggiare',  //  titolo
+        image:'https://i0.wp.com/www.ilsuperuovo.it/wp-content/uploads/2019/12/thumb-1920-44447.jpg?fit=1920%2C1200&ssl=1', // imagine
+        alt:'image Doctor who tardis', // alt della foto
       
     }
 });
